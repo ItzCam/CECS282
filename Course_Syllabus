@@ -1,0 +1,127 @@
+CALIFORNIA STATE UNIVERSITY LONG BEACH
+College of Engineering Department of Computer Engineering and Computer Science
+Course Syllabus
+Spring 2020 Semester
+CECS 282 C++ For Java Programmers
+
+Lecture Number: 3455 (section 1) Lab Number: 3456 (section 2)
+Lecture: TTh 8:00 am-8:50 am. VEC 401 Lab: TTh 9:00 am- 10:15 pm ECS 403
+Instructor:Phuong D. Nguyen  Office:  ECS 531 Office Hours: To be announced
+Email:  phuong.nguyen@csulb.edu Phone: (562) 860-5497
+Home page:www.csulb.edu/~pnguyen
+
+Course Description
+
+A course for Java programmers to learn the C++ language. C++ and Java are both block-structured, object-oriented programming languages and, as such, have many similarities.  They also have some important differences, e.g., their memory models and the strength of their type systems. In this course, we teach C++ by comparing the analogous parts of the two languages where possible and by introducing C++ features that do not exist in Java where necessary. We also point out the languages’ strengths and weaknesses as we cover the course topics.
+
+Course Topics
+
+C++ preprocessor.
+Use of static functions.
+C++ data types.
+Call by value vs. call by reference.
+Polymorphic (virtual) and non-polymorphic methods.
+C++ dynamic memory management.
+Operator overloading.
+Friend classes, methods and functions.
+Effectively use the C++ Standard Template Library.
+Multiple Inheritance.
+Abstract classes and pure methods.
+Exceptions
+Specific goals for the course
+
+The student will be able to:
+
+Write a C++ program using preprocessor facilities.
+Understand the platform dependency of C++ data types.
+Understand call by value vs. call by reference.
+Understand the difference between polymorphic and non-polymorphic methods.
+Understand C++ dynamic memory management.
+Effectively use operator overloading.
+Effectively use friends.
+Effectively use the C++ Standard Template Library.
+Design and program a solution using Multiple Inheritance.
+
+Prerequisite
+
+CECS 274
+
+Text Book and Course Materials
+
+C++ For Java Programmers. Budd Timothy, Addison-Wesley, 1999.
+Copies of the course notes , lab assignments, projects and other announcements are posted on the class Web page or delivered in hard copy in the class.
+
+Grading 
+
+
+2 Midterms      40%
+Quizzes            6%
+Assignments   24%
+Final Exam     30%
+
+Grading Scale:   A  100-90% B 89.9-80% C 79.9-70%  D 69.9-60%  F  59.9-0%. The grade scale may be lowered but it will not be raised.
+
+Exams and Final
+
+There will be 2 examinations. The exam date will be announced about two weeks before each exam.
+Final Exam is Thursday, May 14 from 8:00 am to 10:00 am.
+
+Important dates
+
+Spring 2020 Academic days
+
+Spring Recess: - Monday, March 30-Sunday, April 5
+Last day of classes: Friday, May 8
+Final exams: Monday, May 11-Saturday, May 16
+
+Registration days and deadlines
+
+Drop class deadline without "W" - February 3, 2020
+Withdrawal Deadline from All Classes (with Instructor /Department Signatures) - April 17, 2020
+
+Class Policies
+
+Examinations, Final and Lab Assignments
+
+Examinations and final are closed notes and books unless otherwise specified.
+There are no make-up examination except in cases of an accident or serious illness. Makeup exams may be taken if you received my permission PRIOR to the exam at least one week. Makeup exams might not be the same ones taken by the class.
+Lab assignments are posted on the class web site. The lab assignments are usually programs, some problems solving, and assigned every two weeks. All lab assignments are due during the lab on the due date. In the event of a student’s excused absence, he or she can submit the lab assignment to the BeachBoard. Late lab assignment will be deductible 20% for each day late unless with a permission from the instructor to return the lab assignment late.
+
+Add/Attendance/Withdraw
+
+Attendance at the lecture session and in the lab is mandatory.
+
+If a student will no longer attend class, he or she must correctly drop that class or he or she will receive a failing grade.
+Important deadlines: http://web.csulb.edu/depts/enrollment/dates/registration_fall.html.
+
+Grading
+
+Keep examinations and lab  assignments for grading verification. Without them, your grade will be based on grade assigned in the instructor's grade sheet. No grade change will be made after one week the grades are assigned. During the last week of the semester, the students will verify their grades on the course work with their signatures.
+If you do not agree with the grade on any activity, you may request that the grading of the activity be re-evaluated. The request must be made within 48 hours of having received the graded activity. The exception is for situations where I tallied the score incorrectly.
+Incomplete grades are given only in accordance with the college guidelines. These guidelines can be found in the college catalog.
+A CR/NC grade will result in CR if the final grade is a C or better; otherwise, a NC grade will be given.
+
+Academic Dishonesty
+
+Cheating and plagiarism will not be tolerated in this course. Any individual caught cheating on quizzes, homework, lab projects, or the final exam will be punished to the full extent allowed under University regulations. Plagiarism on papers or assignments is not acceptable and work that is plagiarized will not receive credit. Plagiarism is considered cheating. Note: any time another person’s work is used without giving them proper credit, it is considered plagiarism and cheating. At a minimum, any student caught cheating will receive no credit for the work concerned, and will receive a reduction of one letter grade from their final course grade.
+The official CSULB Policy on Cheating and Plagiarism can be found here: http://web.csulb.edu/divisions/aa/catalog/current/academic_information/cheating_plagiarism.html
+
+Accommodations
+
+Students with a disability or medical restriction who are requesting a classroom accommodation should contact the Disabled Student Services at 562-985-5401 or visit Brotman Hall, Suite 270 during 8AM-5PM weekday hours.  Disabled Student Services will work with the student to identify a reasonable accommodation in partnership with appropriate academic offices and medical providers.  We encourage students to reach out to DSS as soon as possible.
+
+COE Tutoring Services Available for Major Classes
+
+
+FREE peer tutoring is available for undergraduate engineering students in specific departmental courses.  Tutoring will be available starting the week of September 4th until the last day of instruction.
+During the Fall and Spring semesters, tutors are available: 
+• Mondays through Thursdays 9:00 am - 7:00 pm (Drop-in and by appointment)
+• Fridays 9:00 am - 5:00 pm (By appointment only) 
+All tutoring sessions take place in the Engineering Student Success Center (ESSC) in EN2, Room 300.  Please visit the website for more details:
+https://www.csulb.edu/college-of-engineering/engineering-tutoring
+
+Food and housing
+
+Any student who is facing academic or personal challenges due to difficulty in affording groceries/food and/or lacking a safe and stable living environment is urged to contact the CSULB Student Emergency Intervention & Wellness Program. The website outlining the resources available is www.csulb.edu/basicneeds. Students can also e-mail supportingstudents@csulb.edu or call 562/985.2038. If comfortable, students may reach out to the professor as they may be able to identify additional resources.  
+
+THE SYLLABUS IS SUBJECT TO CHANGE 
